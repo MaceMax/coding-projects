@@ -1,0 +1,15 @@
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\obj\Debug\net6.0\ReverseAndNot.csproj.AssemblyReference.cache
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\obj\Debug\net6.0\ReverseAndNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\obj\Debug\net6.0\ReverseAndNot.AssemblyInfoInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\obj\Debug\net6.0\ReverseAndNot.AssemblyInfo.cs
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\obj\Debug\net6.0\ReverseAndNot.csproj.CoreCompileInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\bin\Debug\net6.0\ReverseAndNot.exe
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\bin\Debug\net6.0\ReverseAndNot.deps.json
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\bin\Debug\net6.0\ReverseAndNot.runtimeconfig.json
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\bin\Debug\net6.0\ReverseAndNot.dll
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\bin\Debug\net6.0\ReverseAndNot.pdb
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\obj\Debug\net6.0\ReverseAndNot.dll
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\obj\Debug\net6.0\refint\ReverseAndNot.dll
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\obj\Debug\net6.0\ReverseAndNot.pdb
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\obj\Debug\net6.0\ReverseAndNot.genruntimeconfig.cache
+C:\Users\maxth\Coding Projects\coding-projects\ReverseAndNot\obj\Debug\net6.0\ref\ReverseAndNot.dll

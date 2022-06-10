@@ -1,0 +1,15 @@
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\obj\Debug\net6.0\SortAsc.csproj.AssemblyReference.cache
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\obj\Debug\net6.0\SortAsc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\obj\Debug\net6.0\SortAsc.AssemblyInfoInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\obj\Debug\net6.0\SortAsc.AssemblyInfo.cs
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\obj\Debug\net6.0\SortAsc.csproj.CoreCompileInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\bin\Debug\net6.0\SortAsc.exe
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\bin\Debug\net6.0\SortAsc.deps.json
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\bin\Debug\net6.0\SortAsc.runtimeconfig.json
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\bin\Debug\net6.0\SortAsc.dll
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\bin\Debug\net6.0\SortAsc.pdb
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\obj\Debug\net6.0\SortAsc.dll
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\obj\Debug\net6.0\refint\SortAsc.dll
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\obj\Debug\net6.0\SortAsc.pdb
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\obj\Debug\net6.0\SortAsc.genruntimeconfig.cache
+C:\Users\maxth\Coding Projects\coding-projects\SortAsc\obj\Debug\net6.0\ref\SortAsc.dll

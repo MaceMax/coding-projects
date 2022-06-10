@@ -1,0 +1,15 @@
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\obj\Debug\net6.0\RetFact.csproj.AssemblyReference.cache
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\obj\Debug\net6.0\RetFact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\obj\Debug\net6.0\RetFact.AssemblyInfoInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\obj\Debug\net6.0\RetFact.AssemblyInfo.cs
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\obj\Debug\net6.0\RetFact.csproj.CoreCompileInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\bin\Debug\net6.0\RetFact.exe
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\bin\Debug\net6.0\RetFact.deps.json
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\bin\Debug\net6.0\RetFact.runtimeconfig.json
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\bin\Debug\net6.0\RetFact.dll
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\bin\Debug\net6.0\RetFact.pdb
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\obj\Debug\net6.0\RetFact.dll
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\obj\Debug\net6.0\refint\RetFact.dll
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\obj\Debug\net6.0\RetFact.pdb
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\obj\Debug\net6.0\RetFact.genruntimeconfig.cache
+C:\Users\maxth\Coding Projects\coding-projects\RetFact\obj\Debug\net6.0\ref\RetFact.dll

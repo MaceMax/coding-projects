@@ -1,0 +1,15 @@
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\bin\Debug\net6.0\multiArray.exe
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\bin\Debug\net6.0\multiArray.deps.json
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\bin\Debug\net6.0\multiArray.runtimeconfig.json
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\bin\Debug\net6.0\multiArray.dll
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\bin\Debug\net6.0\multiArray.pdb
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\obj\Debug\net6.0\multiArray.csproj.AssemblyReference.cache
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\obj\Debug\net6.0\multiArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\obj\Debug\net6.0\multiArray.AssemblyInfoInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\obj\Debug\net6.0\multiArray.AssemblyInfo.cs
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\obj\Debug\net6.0\multiArray.csproj.CoreCompileInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\obj\Debug\net6.0\multiArray.dll
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\obj\Debug\net6.0\refint\multiArray.dll
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\obj\Debug\net6.0\multiArray.pdb
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\obj\Debug\net6.0\multiArray.genruntimeconfig.cache
+C:\Users\maxth\Coding Projects\coding-projects\multiArray\obj\Debug\net6.0\ref\multiArray.dll

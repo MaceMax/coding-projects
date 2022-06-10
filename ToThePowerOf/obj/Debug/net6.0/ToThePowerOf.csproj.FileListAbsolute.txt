@@ -1,0 +1,15 @@
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.csproj.AssemblyReference.cache
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.AssemblyInfoInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.AssemblyInfo.cs
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.csproj.CoreCompileInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\bin\Debug\net6.0\ToThePowerOf.exe
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\bin\Debug\net6.0\ToThePowerOf.deps.json
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\bin\Debug\net6.0\ToThePowerOf.runtimeconfig.json
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\bin\Debug\net6.0\ToThePowerOf.dll
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\bin\Debug\net6.0\ToThePowerOf.pdb
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.dll
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\obj\Debug\net6.0\refint\ToThePowerOf.dll
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.pdb
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\obj\Debug\net6.0\ToThePowerOf.genruntimeconfig.cache
+C:\Users\maxth\Coding Projects\coding-projects\ToThePowerOf\obj\Debug\net6.0\ref\ToThePowerOf.dll

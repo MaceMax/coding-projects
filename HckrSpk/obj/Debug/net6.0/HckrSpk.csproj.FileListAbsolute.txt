@@ -1,0 +1,15 @@
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\obj\Debug\net6.0\HckrSpk.csproj.AssemblyReference.cache
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\obj\Debug\net6.0\HckrSpk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\obj\Debug\net6.0\HckrSpk.AssemblyInfoInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\obj\Debug\net6.0\HckrSpk.AssemblyInfo.cs
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\obj\Debug\net6.0\HckrSpk.csproj.CoreCompileInputs.cache
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\bin\Debug\net6.0\HckrSpk.exe
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\bin\Debug\net6.0\HckrSpk.deps.json
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\bin\Debug\net6.0\HckrSpk.runtimeconfig.json
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\bin\Debug\net6.0\HckrSpk.dll
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\bin\Debug\net6.0\HckrSpk.pdb
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\obj\Debug\net6.0\HckrSpk.dll
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\obj\Debug\net6.0\refint\HckrSpk.dll
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\obj\Debug\net6.0\HckrSpk.pdb
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\obj\Debug\net6.0\HckrSpk.genruntimeconfig.cache
+C:\Users\maxth\Coding Projects\coding-projects\HckrSpk\obj\Debug\net6.0\ref\HckrSpk.dll
